@@ -1,0 +1,16 @@
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\bin\Debug\net5.0\yafetBattleShipReview.exe
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\bin\Debug\net5.0\yafetBattleShipReview.deps.json
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\bin\Debug\net5.0\yafetBattleShipReview.runtimeconfig.json
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\bin\Debug\net5.0\yafetBattleShipReview.runtimeconfig.dev.json
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\bin\Debug\net5.0\yafetBattleShipReview.dll
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\bin\Debug\net5.0\ref\yafetBattleShipReview.dll
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\bin\Debug\net5.0\yafetBattleShipReview.pdb
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\obj\Debug\net5.0\yafetBattleShipReview.csproj.AssemblyReference.cache
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\obj\Debug\net5.0\yafetBattleShipReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\obj\Debug\net5.0\yafetBattleShipReview.AssemblyInfoInputs.cache
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\obj\Debug\net5.0\yafetBattleShipReview.AssemblyInfo.cs
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\obj\Debug\net5.0\yafetBattleShipReview.csproj.CoreCompileInputs.cache
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\obj\Debug\net5.0\yafetBattleShipReview.dll
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\obj\Debug\net5.0\ref\yafetBattleShipReview.dll
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\obj\Debug\net5.0\yafetBattleShipReview.pdb
+C:\Users\spira\source\repos\yafetBattleShipReview\yafetBattleShipReview\obj\Debug\net5.0\yafetBattleShipReview.genruntimeconfig.cache
